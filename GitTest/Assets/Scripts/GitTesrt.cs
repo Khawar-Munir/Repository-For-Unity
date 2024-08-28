@@ -8,6 +8,8 @@ public class GitTesrt : MonoBehaviour
     void Start()
     {
         //*123
+
+        //* change made through vs
     }
 
     // Update is called once per frame
